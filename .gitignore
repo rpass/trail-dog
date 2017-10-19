@@ -25,3 +25,5 @@
 # Rob adds
 *.sublime-project
 *.sublime-workspace
+
+/config/secrets.yml
