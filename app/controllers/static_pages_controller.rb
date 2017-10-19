@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
+  	@upcoming_races = Events.last(4)
   end
 
   def help
