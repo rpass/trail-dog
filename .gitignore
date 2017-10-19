@@ -26,4 +26,4 @@
 *.sublime-project
 *.sublime-workspace
 
-/config/secrets.yml
+config/secrets.yml
